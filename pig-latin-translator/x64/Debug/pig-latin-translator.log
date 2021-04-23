@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\brend\Desktop\piglatin-translator\pig-latin-translator\Source.cpp(17,26): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\brend\Desktop\piglatin-translator\pig-latin-translator\Source.cpp(20,26): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\brend\Desktop\piglatin-translator\pig-latin-translator\Source.cpp(27,26): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\brend\Desktop\piglatin-translator\pig-latin-translator\Source.cpp(31,35): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  pig-latin-translator.vcxproj -> C:\Users\brend\Desktop\piglatin-translator\x64\Debug\pig-latin-translator.exe
